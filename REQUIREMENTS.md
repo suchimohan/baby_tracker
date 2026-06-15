@@ -8,7 +8,7 @@
 
 ## 1. Product Overview
 
-A mobile baby/child tracking app inspired by competitor, helping parents and caregivers log and monitor a baby's daily activities with smart sleep prediction and AI-powered guidance.
+A mobile baby/child tracking app helping parents and caregivers log and monitor a baby's daily activities with smart sleep prediction and AI-powered guidance.
 
 ---
 
@@ -605,8 +605,8 @@ Before any release (v1, v1.1, etc.):
 
 ### Research/Discovery
 - [ ] **User Interviews:** Talk to 10+ parents about pain points, what they want
-- [ ] **competitor Feedback Research:** Read Reddit (r/beyondthebump, r/parenting) + App Store reviews (iOS/Android) for pain points, feature gaps, complaints about pricing/UX. See `memory/project_competitive_research.md` for research checklist.
-- [ ] **Competitive Analysis:** Study BabyConnect, Babysparks, Glow features + pricing (same pattern as competitor research)
+- [ ] **Competitor Feedback Research:** Read Reddit (r/beyondthebump, r/parenting) + App Store reviews (iOS/Android) for pain points, feature gaps, complaints about pricing/UX.
+- [ ] **Competitive Analysis:** Study BabyConnect, Babysparks, Glow features + pricing
 - [ ] **Sleep Prediction Validation:** How accurate should our sleep window be? (±30 min? ±1 hour?)
 - [ ] **AI Chat Vendors:** Compare OpenAI vs Claude vs Google Vertex AI for cost/quality/compliance
 
