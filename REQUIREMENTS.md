@@ -26,7 +26,7 @@ A mobile baby/child tracking app inspired by competitor, helping parents and car
 ## 3. Core Features
 
 ### MVP v1 (Launch Minimum)
-**Goal:** Ship in 3-4 months. Focus on core tracking.
+**Goal:** Focus on core tracking.
 
 **In v1:**
 - Sleep (timer + manual entry, history view)
@@ -44,18 +44,18 @@ A mobile baby/child tracking app inspired by competitor, helping parents and car
 - Sleep prediction/insights
 - AI features
 
-### v1.1 (1-2 weeks post-launch)
+### v1.1
 - Growth tracking (weight, length)
 - Medicine & temperature logging
 - Multiple child profiles
 - Smart reminder scheduling (recommended feeding times)
 
-### v1.2 (1 month post-launch)
+### v1.2
 - Sleep prediction (heuristic-based, age rules)
 - Enhanced trend reports and charts
 - Age-appropriate sleep schedule suggestions
 
-### v2 (Q1 2027)
+### v2
 - AI chat with expert guidance
 - Custom sleep plans with progress tracking
 - AI logging (text, voice, photo parsing)
