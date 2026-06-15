@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!--
+  Copy this file to ios/Runner/GoogleService-Info.plist and fill in your values.
+  GoogleService-Info.plist is gitignored — never commit the real file.
+
+  Download the real file from:
+  Google Cloud Console → your project → APIs & Services → Credentials
+  → your iOS OAuth client → Download plist
+-->
+<dict>
+  <key>CLIENT_ID</key>
+  <string>YOUR_IOS_CLIENT_ID.apps.googleusercontent.com</string>
+  <key>REVERSED_CLIENT_ID</key>
+  <string>com.googleusercontent.apps.YOUR_IOS_CLIENT_ID</string>
+  <key>BUNDLE_ID</key>
+  <string>io.github.suchimohan.babytracker</string>
+</dict>
+</plist>
